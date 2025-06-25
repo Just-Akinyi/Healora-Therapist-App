@@ -3,9 +3,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In_Development-orange)
 
-# 🧠 Helora Therapist App
+# 🧠 Healora Therapist App
 
-**Helora** is a modern mental wellness mobile app designed to support users on their emotional and mental health journey through AI-powered therapy, mood tracking, journaling, personalized emotional insights and a user-friendly dashboard. Built with Flutter, Helora aims to make emotional well-being more accessible, secure, and intuitive.
+**Healora** is a modern mental wellness mobile app designed to support users on their emotional and mental health journey through AI-powered therapy, mood tracking, journaling, personalized emotional insights and a user-friendly dashboard. Built with Flutter, Healora aims to make emotional well-being more accessible, secure, and intuitive.
 
 ---
 
@@ -44,8 +44,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/helora-therapist-app.git
-cd helora-therapist-app
+git clone https://github.com/your-username/Healora-therapist-app.git
+cd Healora-therapist-app
 flutter pub get
 flutter run
 ```
@@ -68,7 +68,7 @@ lib/
 
 ## 🔐 Disclaimer
 
-Helora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions.
+Healora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions.
 
 ## 🛠️ Contributing
 Contributions are welcome! Please follow these steps:
@@ -83,7 +83,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📸 Screenshots
 
-Below are some preview screens from the Helora Therapist App:
+Below are some preview screens from the Healora Therapist App:
 
 | Splash Screen | Dashboard | Chat Screen | Mood Tracker |
 |---------------|-----------|-------------|---------------|
