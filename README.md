@@ -46,7 +46,7 @@ cd helora-therapist-app
 flutter pub get
 flutter run
 ```
-
+---
 ###📱 App Structure
 lib/
 │
@@ -58,24 +58,24 @@ lib/
 ├── models/             # Data models for mood, user, journal, etc.
 ├── providers/          # State management logic (optional)
 └── utils/              # Helper methods and constants
-
-###🔐 Disclaimer
+---
+##🔐 Disclaimer
 Helora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions.
-
-###🛠️ Contributing
+---
+##🛠️ Contributing
 Contributions are welcome! Please follow these steps:
-
-bash
+```bash
 1. Fork the repo
 2. Create your feature branch: git checkout -b feature/my-feature
 3. Commit your changes: git commit -m "Add my feature"
 4. Push to the branch: git push origin feature/my-feature
 5. Open a Pull Request
-   
-###📸 Screenshots
+   ```
+---
+##📸 Screenshots
 Splash	Dashboard	Chat	Mood Tracker
 
 (Screenshots go inside /screenshots/ folder)
-
-###📬 Contact
-For support or questions, email teamhelora@gmail.com or open an issue.
+---
+##📬 Contact
+For support or questions, email justakinyi1@gmail.com or open an issue.
