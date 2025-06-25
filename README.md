@@ -1,3 +1,8 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
+
 # Helora-Therapist-App
 Helora is a mental wellness mobile app designed to support users on their emotional and mental health journey. It features an AI-powered therapist chat, mood tracking, journaling, personalized insights, and a user-friendly dashboard — all in one secure and accessible platform.
 # 🧠 Helora Therapist App
@@ -49,6 +54,7 @@ flutter run
 ---
 
 ## 📱 App Structure
+```bash
 lib/
 │
 ├── main.dart
@@ -59,11 +65,12 @@ lib/
 ├── models/             # Data models for mood, user, journal, etc.
 ├── providers/          # State management logic (optional)
 └── utils/              # Helper methods and constants
+```
 ---
 
 ## 🔐 Disclaimer
+
 Helora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions.
----
 
 ## 🛠️ Contributing
 Contributions are welcome! Please follow these steps:
@@ -77,9 +84,15 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ## 📸 Screenshots
-Splash	Dashboard	Chat	Mood Tracker
 
-(Screenshots go inside /screenshots/ folder)
+Below are some preview screens from the Helora Therapist App:
+
+| Splash Screen | Dashboard | Chat Screen | Mood Tracker |
+|---------------|-----------|-------------|---------------|
+| ![Splash](screenshots/splash.png) | ![Dashboard](screenshots/dashboard.png) | ![Chat](screenshots/chat.png) | ![Mood](screenshots/mood_tracker.png) |
+
+> 📁 **Note**: Place your images inside the `/screenshots/` folder and ensure the filenames match the ones above.
+
 ---
 
 ## 📬 Contact
