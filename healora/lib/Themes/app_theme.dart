@@ -29,15 +29,15 @@ final lightColorScheme = const ColorScheme(
 /// Dark Color Scheme (Material 3)
 final darkColorScheme = const ColorScheme(
   brightness: Brightness.dark,
-  primary: Color(0xFFA09BFF),
+  primary: Colors.deepPurpleAccent,
   onPrimary: Color(0xFF1C1C2E),
-  secondary: Color(0xFFB3A5FF),
+  secondary: Colors.lightBlueAccent,
   onSecondary: Color(0xFF121212),
   surface: Color(0xFF292A3E),
   onSurface: Color(0xFFFFFFFF),
   error: Color(0xFFEF9A9A),
   onError: Color(0xFF1C1C2E),
-  tertiary: Color(0xFF68E1C7),
+  tertiary: Colors.teal,
   onTertiary: Color(0xFF1C1C2E),
   outline: Color(0xFF444455),
   onSurfaceVariant: Color(0xFFDADADA),

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:healora/Themes/app_theme.dart';
-import 'package:healora/Views/splash.dart';
+// import 'package:healora/screens/splash.dart';
+import 'package:healora/widgets/backdrop.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,9 +17,10 @@ class MyApp extends StatelessWidget {
       title: 'Healora',
       theme: lightTheme, // Uses your custom light theme
       darkTheme: darkTheme, // Uses your custom dark theme
-      themeMode: ThemeMode.system, // Follows device setting
-      home: const SplashScreen(),
+      themeMode: ThemeMode.dark, // Follows device setting
+      home: GradientBackgroundScreen(),
       debugShowCheckedModeBanner: false,
     );
   }
 }
+
