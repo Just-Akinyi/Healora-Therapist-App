@@ -3,11 +3,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-In_Development-orange)
 
-# Helora-Therapist-App
-Helora is a mental wellness mobile app designed to support users on their emotional and mental health journey. It features an AI-powered therapist chat, mood tracking, journaling, personalized insights, and a user-friendly dashboard — all in one secure and accessible platform.
 # 🧠 Helora Therapist App
 
-**Helora** is a modern mental wellness mobile app designed to support users through AI-powered therapy, mood tracking, journaling, and personalized emotional insights. Built with Flutter, Helora aims to make emotional well-being more accessible, secure, and intuitive.
+**Helora** is a modern mental wellness mobile app designed to support users on their emotional and mental health journey through AI-powered therapy, mood tracking, journaling, personalized emotional insights and a user-friendly dashboard. Built with Flutter, Helora aims to make emotional well-being more accessible, secure, and intuitive.
 
 ---
 
