@@ -47,7 +47,8 @@ flutter pub get
 flutter run
 ```
 ---
-###📱 App Structure
+
+## 📱 App Structure
 lib/
 │
 ├── main.dart
@@ -59,10 +60,12 @@ lib/
 ├── providers/          # State management logic (optional)
 └── utils/              # Helper methods and constants
 ---
-##🔐 Disclaimer
+
+## 🔐 Disclaimer
 Helora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions.
 ---
-##🛠️ Contributing
+
+## 🛠️ Contributing
 Contributions are welcome! Please follow these steps:
 ```bash
 1. Fork the repo
@@ -72,10 +75,12 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
    ```
 ---
-##📸 Screenshots
+
+## 📸 Screenshots
 Splash	Dashboard	Chat	Mood Tracker
 
 (Screenshots go inside /screenshots/ folder)
 ---
-##📬 Contact
+
+## 📬 Contact
 For support or questions, email justakinyi1@gmail.com or open an issue.
