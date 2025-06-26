@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:healora/Themes/backdrop.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
@@ -10,12 +11,12 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text('healora'),
+    return GradientBackground(
+      child: Scaffold(
+        backgroundColor: Colors.transparent, // ✅ important
+        appBar: AppBar(title: const Text('Healora Splash')),
+        body: const Center(child: Text('Welcome to Healora Splash screen!')),
       ),
-      body: Center(child: Column(mainAxisAlignment: MainAxisAlignment.center)),
     );
   }
 }

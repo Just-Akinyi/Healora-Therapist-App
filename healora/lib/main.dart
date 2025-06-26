@@ -1,7 +1,7 @@
+// lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:healora/Themes/app_theme.dart';
-// import 'package:healora/screens/splash.dart';
-import 'package:healora/widgets/backdrop.dart';
+import 'package:healora/widgets/bottom-nav.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,18 +9,21 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-  // This widget is the root of your application.
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Healora',
-      theme: lightTheme, // Uses your custom light theme
-      darkTheme: darkTheme, // Uses your custom dark theme
-      themeMode: ThemeMode.dark, // Follows device setting
-      home: GradientBackgroundScreen(),
+
+      // ✅ Apply themes
+      theme: lightTheme,
+      darkTheme: darkTheme,
+      themeMode: ThemeMode.system,
+
+      // ✅ Your home screen
+      home: BottomNav(),
+
       debugShowCheckedModeBanner: false,
     );
   }
 }
-
