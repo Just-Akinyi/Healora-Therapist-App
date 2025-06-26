@@ -68,7 +68,7 @@ lib/
 
 ## 🔐 Disclaimer
 
-Healora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions.
+Healora is not a replacement for clinical therapy or medical treatment. The AI therapist is a support tool and does not provide diagnoses. Users should consult licensed professionals for mental health conditions. Hey there
 
 ## 🛠️ Contributing
 Contributions are welcome! Please follow these steps:
